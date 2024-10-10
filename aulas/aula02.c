@@ -1,11 +1,9 @@
-#include <stdio.h>
+#include <stdio.h> //inclcus√£o da biblioteca standard input output
 
+//fun√ß√£o principal do c√≥digo
 int main() {
-    printf("tmj È noix\n"); // o \n serve para pular para a linha de baixo
-    
-    /*
-    tudo que estiver aqui nesse meio È um coment·rio longo, pode ser um par·grafo todo de coment·rio
-    */
-
+    //fun√ß√£o para exibir alguam mensagem na tela do usu√°rio
+    printf("fala tropa");
+    printf("tmj meu fi");
     return 0;
 }

@@ -1,15 +1,11 @@
 #include <stdio.h>
 
 int main() {
+    //aqui temos um exemplo de declaração de variável
     int idade;
-    idade = 23; 
+    idade = 23; // aqui está sendo atribuído um valor a essa variável
 
-    int idade2;
-    idade2 = 55;
-
-    int idade3 = 70;
-
-    printf("minha idade eh: %d\na idade 2 eh: %d\ne a idade 3 eh: %d", idade, idade2, idade3);
+    printf("a idade é : %d\n", idade); //aqui chamamos o valor dessa variável no código.
 
     return 0;
 }

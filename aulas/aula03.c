@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 int main() {
-    //aqui temos um exemplo de declara√ß√£o de vari√°vel
-    int idade;
-    idade = 23; // aqui est√° sendo atribu√≠do um valor a essa vari√°vel
-
-    printf("a idade √© : %d\n", idade); //aqui chamamos o valor dessa vari√°vel no c√≥digo.
+    printf("tmj È noix\n"); // o \n serve para pular para a linha de baixo
+    
+    /*
+    tudo que estiver aqui nesse meio È um coment·rio longo, pode ser um par·grafo todo de coment·rio
+    */
 
     return 0;
 }
